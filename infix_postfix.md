@@ -9,5 +9,5 @@ E.g. If we were to write this `infix` equation $A+B$ in `postfix`, it would look
 ---
 | Infix | Postfix |
 | ----- | ------- |
-| $(7+16)\cdot(12+5)$ | $7\\;16+\\;12\\;5 + \\;\cdot$ |
-| $\frac{(3+7)\cdot(4+3)}{5}$ | $3\\; 7+\\;4\\;3+\\;\cdot\\;5\div$ |
+| $(7+16)\cdot(12+5)$ | $7\;16+\;12\;5 + \;\cdot$ |
+| $\frac{(3+7)\cdot(4+3)}{5}$ | $3\; 7+\;4\;3+\;\cdot\;5\div$ |
